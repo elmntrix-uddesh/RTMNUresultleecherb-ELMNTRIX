@@ -1,0 +1,20 @@
+Hey there ! This project RTMNU result Scrapper by elmntrix.
+This script is developed in python. This will download 
+your result of fourth semester. Currently it only support 
+BCA fourth semester. In future update, it will support other exams.
+step to use:-
+1. Unzip the git.
+2. Run file that suits your OS.
+ eg: for windows use file from windows version folder.
+3. Select GUI.exe from windows version and RUN the file.
+4. Enter Your Roll. No: (eg:470240)
+5. Wait till success messagebox appears. 
+ (Note: Result will be downloaded in windows version folder)
+6. open the windows version folder and 
+Click on image file with name of your roll no.
+ voila check your result.
+GitHub : https://github.com/reyansh98/RTMNUresultleecherb-ELMNTRIX
+Project by : 
+1. Uddesh Palandurkar
+2. Shashank Manve
+3. Navneet Toppo
